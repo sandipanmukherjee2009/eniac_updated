@@ -1,0 +1,65 @@
+{
+    "name": "Eniacs #81",
+    "symbol": "Eniacs DAO",
+    "description": "375 Eniacs living on the Solana Blockchain. A real person who believes in the energy of the community. We will show you what a group of people who trust each other can achieve.",
+    "seller_fee_basis_points": 1000,
+    "image": "https://p4teypjs2dsok7ekq425cxwozdjleq5sbzkum23rtu6b6vroxe.arweave.net/fyZMPTLQ5OV8_ioc10V7OyNKyQ7IOVUZrcZ08H1YuuY?ext=png",
+    "external_url": "",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Ultraviolet"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Tattoo",
+            "value": "None"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Cowboy Hat"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Cyan Tshirt"
+        }
+    ],
+    "collection": {
+        "name": "Eniacs",
+        "family": "Eniacs"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "259.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "8dUqYLn7kxU32uxEAdMPKbXscpRTfnDyR7T3GVgu9tgC",
+                "share": 50
+            },
+            {
+                "address": "9gHaiZaqjFS455iypjHK92UMh5w1ciHJ286FTMPDfnuL",
+                "share": 50
+            }
+        ]
+    }
+}
